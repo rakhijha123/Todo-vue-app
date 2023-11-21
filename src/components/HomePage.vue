@@ -28,8 +28,8 @@ import { ref, reactive } from "vue";
 
 //Data
 const todos = ref([
-  { text: "learn vue", completed: false },
-  { text: "build a todo app", completed: false },
+  // { text: "", completed: true },
+  // { text: "", completed: true },
 ]);
 
 const newTodo = ref("");
